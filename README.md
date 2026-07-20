@@ -1,5 +1,14 @@
 # Synthatlas
 
+<p align = "center">
+ 
+ ### [Download latest version](https://github.com/ibrahiimbas/Synthatlas./releases/tag/v0.3.5)
+
+</p>
+ 
+[![Status](https://img.shields.io/badge/version-beta_0.3.5-cyan?style=flat)](https://github.com/ibrahiimbas/Synthatlas.)
+</p>
+
 **A modern texture atlas and sprite workflow tool for indie game developers.**
 
 Synthatlas is a desktop application built with WPF (.NET 8) that helps game developers pack sprite images into optimized texture atlases, export animation sheets, and manage sprite assets — all within a clean, dark-themed interface.
