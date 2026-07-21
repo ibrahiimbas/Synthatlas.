@@ -1,4 +1,4 @@
-# Synthatlas
+# Synthatlas [![Status](https://img.shields.io/badge/version-beta_0.3.5-cyan?style=flat)](https://github.com/ibrahiimbas/Synthatlas)
 
 <p align="center">
 
@@ -8,13 +8,13 @@ Texture Atlas & Sprite Workflow Tool
 
 <p align="center">
 
-##  Download
+##  Download 
 
-👉 **[Latest Release](https://github.com/ibrahiimbas/Synthatlas/releases)**
+- **[Latest Release](https://github.com/ibrahiimbas/Synthatlas/releases)**
+- **[Itch.io Page](https://synthseizer.itch.io/synthatlas)**
 
 </p>
 
-[![Status](https://img.shields.io/badge/version-beta_0.3.5-cyan?style=flat)](https://github.com/ibrahiimbas/Synthatlas.)
 
 **A modern texture atlas and sprite workflow tool for indie game developers.**
 
