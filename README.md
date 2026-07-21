@@ -10,7 +10,7 @@ Texture Atlas & Sprite Workflow Tool
 
 ##  Download
 
-👉 **[Latest Release](https://github.com/ibrahiimbas/Synthatlas./releases/latest)**
+👉 **[Latest Release](https://github.com/ibrahiimbas/Synthatlas/releases)**
 
 </p>
 
@@ -189,7 +189,7 @@ For full control and support for all three Synthatlas XML formats (`TextureAtlas
 
 #### Installation
 
-- **[SynthatlasPacker.cs](https://github.com/ibrahiimbas/Synthatlas./blob/main/unity-integration/SynthatlasPacker.cs)**
+- **[SynthatlasPacker.cs](https://github.com/ibrahiimbas/Synthatlas/blob/main/unity-integration/SynthatlasPacker.cs)**
 
 1. In your Unity project, create an `Assets/Editor/` folder if it doesn't exist
 2. Copy `unity-integration/SynthatlasPacker.cs` into `Assets/Editor/`
